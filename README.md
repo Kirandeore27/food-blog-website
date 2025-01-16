@@ -1,5 +1,3 @@
-# food-blog-website
-
 # FOOD BLOG PROJECT
 
 ## Description
